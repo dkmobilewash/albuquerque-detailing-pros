@@ -26,7 +26,7 @@ export default function BlogPage() {
 
     return (
       <>
-        <SEO title={post.title} description={post.excerpt} canonical={`https://albuquerquedetailing.com/blog/${post.slug}`} />
+        <SEO title={post.title} description={post.excerpt} canonical={`https://www.albuquerquedetailing.com/blog/${post.slug}`} />
         <BlogPostView post={post} onBack={() => navigate('/blog')} />
       </>
     );

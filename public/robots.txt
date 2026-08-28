@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://albuquerquedetailing.com/sitemap.xml
+Sitemap: https://www.albuquerquedetailing.com/sitemap.xml
