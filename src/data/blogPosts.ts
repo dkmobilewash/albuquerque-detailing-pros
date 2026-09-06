@@ -35,6 +35,8 @@ Consistent [mobile auto detailing](/service/mobile-auto-detailing) keeps oxidati
 
 A [ceramic coating](/ceramic-coating) extends the interval between full exterior details because it resists dust adhesion and makes hard water spots easier to remove before they etch. Pair that with a quarterly interior refresh and most Albuquerque drivers keep their vehicle looking new for the life of the car.
 
+Once you've settled on a schedule, see [How to Maintain Your Car Between Professional Details](/blog/how-to-maintain-your-car-between-professional-details) for what to do in the weeks in between so that schedule actually holds up.
+
 Ready to build a schedule that fits your vehicle and driveway? [Contact us](/contact) for a free consultation.`,
   },
   {
@@ -129,7 +131,7 @@ Busy professionals, parents managing school pickup, property managers overseeing
 
 ## What to Expect
 
-We arrive with everything needed — you don't need to provide water, power, or space beyond a driveway or parking spot. Most full details take 2-4 hours depending on the package.
+We arrive with everything needed — you don't need to provide water, power, or space beyond a driveway or parking spot. Most full details take 2-4 hours depending on the package, and you don't even need to be home for it — see [Do I Need to Be Home for a Mobile Detailing Appointment?](/blog/do-i-need-to-be-home-for-mobile-detailing) for exactly what's required from you.
 
 ## Fleet and Commercial Use
 
@@ -286,6 +288,8 @@ In Albuquerque's high-UV, low-humidity climate, wax and sealant break down faste
 
 For most Albuquerque metro drivers, [ceramic coating](/ceramic-coating) delivers the best long-term value despite the higher upfront cost — see our full breakdown in [Is Ceramic Coating Worth It in New Mexico?](/blog/is-ceramic-coating-worth-it-in-new-mexico)
 
+This comparison only covers products that sit on or bond with your paint. If you're also weighing physical protection against rock chips, see [Ceramic Coating vs. Paint Protection Film (PPF): What's the Difference?](/blog/ceramic-coating-vs-paint-protection-film-ppf)
+
 Not sure which is right for your vehicle? [Get a free consultation](/contact) and we'll recommend a package based on how and where you drive.`,
   },
   {
@@ -382,7 +386,7 @@ Buyers and trade-in appraisers judge a vehicle's condition heavily on interior p
 
 ## The Maintenance Math
 
-A routine [interior detailing](/service/interior-detailing) every 8-12 weeks costs a fraction of what deep stain extraction, odor remediation, or upholstery replacement costs once neglect sets in.
+A routine [interior detailing](/service/interior-detailing) every 8-12 weeks costs a fraction of what deep stain extraction, odor remediation, or upholstery replacement costs once neglect sets in — see our full [detailing cost guide](/blog/detailing-cost-guide) for real numbers at every level.
 
 ## Where to Start
 
@@ -735,12 +739,229 @@ You spend a lot of time in the vehicle, have kids or pets creating interior wear
 
 ## Not Sure? Ask Us
 
-When you [book an appointment](/contact) or use our self-assessment quiz, we can point you toward the right starting package based on a few quick questions about your vehicle's condition.
+When you [book an appointment](/contact) or use our self-assessment quiz, we can point you toward the right starting package based on a few quick questions about your vehicle's condition. If you want to know exactly what each tier covers first, see [What Does a Full Car Detail Actually Include?](/blog/what-does-a-full-car-detail-include) and our [detailing cost guide](/blog/detailing-cost-guide) for pricing at every level.
 
 ## Packages Aren't Fixed Forever
 
 Many customers start with an Interior or Exterior package and add the other side once they see the results — there's no wrong door into a detailing routine, just a starting point that matches your vehicle's most urgent needs.
 
 Explore all our [service and package options](/car-detailing) or [get a free quote](/contact) today.`,
+  },
+  {
+    title: "Car Wash vs. Auto Detailing: What's the Difference?",
+    slug: 'car-wash-vs-detailing-whats-the-difference',
+    excerpt:
+      "It's one of the most common questions we get before someone books their first appointment. Here's what actually separates a car wash from professional detailing.",
+    date: '2026-08-03',
+    readTime: '5 min read',
+    author: AUTHOR,
+    content: `If you've ever wondered whether you need a "wash" or a "detail," you're not alone — it's one of the most searched questions before people book their first appointment.
+
+## A Car Wash Cleans the Surface
+
+A car wash — whether a drive-through tunnel or a bucket-and-hose job in your driveway — removes loose dirt, dust, and grime from the exterior. It's fast, inexpensive, and fine for weekly maintenance, but it doesn't touch the interior beyond maybe vacuuming, and it does nothing for paint condition, protection, or the buildup that collects in vents, seals, and crevices.
+
+## Detailing Goes Much Deeper
+
+[Auto detailing](/service/mobile-auto-detailing) is a full reconditioning process. On the exterior, that means clay bar decontamination to remove bonded contaminants a wash can't touch, and wax or sealant protection instead of just a rinse. On the interior, it means steam extraction, stain treatment, and UV-protectant conditioning rather than a quick vacuum. See our full breakdown in [What Does a Full Car Detail Actually Include?](/blog/what-does-a-full-car-detail-include)
+
+## Why the Distinction Matters for Your Wallet
+
+Automatic car washes with spinning brushes are also one of the leading causes of swirl marks — see [Paint Correction 101](/blog/paint-correction-101-removing-swirl-marks-and-scratches) for how those tiny scratches accumulate. A wash keeps a car looking presentable week to week; only a detail actually protects and restores the finish underneath.
+
+## Which One Do You Need?
+
+- **Just dusty from daily driving?** A wash or our [Classic Exterior](/classic-exterior) package is enough.
+- **Paint looking dull, or it's been months since a proper clean?** You need a detail — see [Choosing the Right Detailing Package](/blog/choosing-the-right-detailing-package).
+- **Want it to stay clean longer with less effort?** Pair a detail with [ceramic coating](/ceramic-coating).
+
+## The Bottom Line
+
+Think of a wash as hygiene and a detail as maintenance and protection. Most Albuquerque vehicles need both — frequent washing between less frequent, more thorough details. [Get a free quote](/contact) and we'll help you figure out which one fits where your car is right now.`,
+  },
+  {
+    title: 'What Does a Full Car Detail Actually Include?',
+    slug: 'what-does-a-full-car-detail-include',
+    excerpt:
+      "\"What am I actually paying for?\" is the question we hear most from first-time customers. Here's a plain-language walkthrough of what happens during a full detail.",
+    date: '2026-08-10',
+    readTime: '6 min read',
+    author: AUTHOR,
+    content: `"What's actually included?" is the single most common question we get from first-time customers booking a [full detail](/car-detailing). Here's exactly what happens, step by step.
+
+## Exterior Steps
+
+- **Pre-rinse** to float off loose dust before anything touches the paint
+- **Two-bucket hand wash** with pH-neutral soap
+- **Clay bar decontamination** to remove bonded contaminants like tree sap and mineral deposits
+- **Wheel, tire, and trim cleaning** with dressing
+- **Wax, sealant, or ceramic protection**, depending on the package
+
+## Interior Steps
+
+- **Full vacuum** of carpets, seats, trunk, and under the seats
+- **Steam extraction** for carpets and upholstery
+- **Leather or fabric conditioning** to prevent cracking or fading
+- **Vent cleaning** to remove the dust that recirculates every time the AC runs
+- **UV-protectant dressing** for the dashboard and door panels
+
+## What Changes Between Packages
+
+Our [Full Refresh, Gold Standard, and Masterpiece Detail](/gold-standard) packages all include the steps above but go progressively deeper — Gold Standard adds steam cleaning and premium wax, while Masterpiece Detail adds machine paint correction and headlight restoration. See the full comparison in [Choosing the Right Detailing Package](/blog/choosing-the-right-detailing-package).
+
+## What's Usually an Add-On, Not Included
+
+Things like [ceramic coating](/ceramic-coating), [engine bay detailing](/service/engine-bay-detailing), and odor remediation for pet or smoke damage are typically add-ons rather than standard inclusions, since they apply to a smaller share of vehicles.
+
+## How Long It Takes
+
+A full detail on an average sedan runs 2-4 hours; larger vehicles or those in rougher condition take longer. That's also why [mobile service](/blog/why-mobile-detailing-beats-driving-to-a-shop) makes sense — you don't have to sit in a waiting room for it.
+
+Curious what your specific vehicle would need? [Get a free quote](/contact) and we'll walk you through exactly what's included for your car.`,
+  },
+  {
+    title: 'How Much Does Car Detailing Cost? A Realistic Breakdown',
+    slug: 'detailing-cost-guide',
+    excerpt:
+      'Detailing prices online range from $50 to $800+, which makes the question almost impossible to answer without context. Here is what actually drives the price.',
+    date: '2026-08-17',
+    readTime: '6 min read',
+    author: AUTHOR,
+    content: `Search "how much does car detailing cost" and you'll get answers ranging from $50 to $800+, which isn't very helpful on its own. Here's what actually determines where you land in that range.
+
+## The Three Biggest Price Factors
+
+- **Scope**: A wash-and-vacuum costs far less than a full detail with clay bar decontamination, steam extraction, and wax. Paint correction and ceramic coating cost more still because of the labor and product involved.
+- **Vehicle size and condition**: A two-door commuter car costs less to detail than a three-row SUV, and a car that hasn't been cleaned in a year costs more than one on a routine schedule.
+- **What's included**: A cheap quote that excludes wheels, interior, or protection isn't actually a lower price — it's a smaller job. Always compare what's included, not just the number.
+
+## Typical Price Ranges
+
+- **Basic wash and vacuum**: $50-100
+- **Full interior and exterior detail**: $150-350, depending on package tier — see [what's included at each level](/blog/what-does-a-full-car-detail-include)
+- **Paint correction**: $350-700 depending on the number of stages needed
+- **Ceramic coating**: $500-1,200+ depending on tier and whether correction is needed first
+
+For a full local price breakdown, see our [Albuquerque detailing pricing guide](/car-detailing-prices-albuquerque).
+
+## Why the Cheapest Quote Is Rarely the Best Deal
+
+An unusually low price almost always means something is missing — a rushed process, diluted products, or an upsell once the technician arrives. We cover the specific red flags to watch for on the [pricing guide](/car-detailing-prices-albuquerque).
+
+## The Cost of Skipping Detailing Altogether
+
+Delaying professional care doesn't avoid the cost — it just shifts it. See [The True Cost of Neglecting Your Car's Interior](/blog/the-true-cost-of-neglecting-your-cars-interior) for how much more expensive stain extraction and odor remediation get once neglect sets in.
+
+## Getting an Exact Number
+
+Because condition and vehicle size matter so much, the only way to get a real number is a quote based on your actual car. [Request a free quote](/contact) and we'll give you an honest price before you commit to anything.`,
+  },
+  {
+    title: 'Ceramic Coating vs. Paint Protection Film (PPF): What\'s the Difference?',
+    slug: 'ceramic-coating-vs-paint-protection-film-ppf',
+    excerpt:
+      'These two get confused constantly because they are often marketed together. They solve different problems, and most vehicles benefit from understanding both.',
+    date: '2026-08-24',
+    readTime: '6 min read',
+    author: AUTHOR,
+    content: `Ceramic coating and paint protection film (PPF) get lumped together constantly, but they protect against completely different things — and knowing the difference matters before you spend money on either.
+
+## Ceramic Coating: Chemical Protection
+
+[Ceramic coating](/ceramic-coating) is a liquid polymer that chemically bonds to your clear coat, creating a hard, glossy, hydrophobic layer. It protects against:
+
+- UV breakdown and oxidation
+- Hard water spotting and mineral etching
+- Chemical staining from bird droppings, tree sap, and road grime
+- Minor swirling from washing
+
+It does **not** stop rock chips or deep scratches from debris — the layer is measured in microns, far too thin to absorb an impact.
+
+## PPF: Physical Protection
+
+Paint protection film is a thick, clear urethane film applied to high-impact areas — the front bumper, hood, mirrors, and rocker panels. It's built to absorb rock chips, road debris, and light abrasion that would otherwise chip through to bare metal. It does very little for chemical staining or hard water etching on its own.
+
+## Why They're Often Used Together
+
+Many owners apply PPF to the front-facing panels most exposed to highway debris, then [ceramic coat](/ceramic-coating) the entire vehicle — including over the PPF — for UV resistance, gloss, and easier washing. Neither one replaces the other; they solve different problems on the same car.
+
+## Which One Do You Need?
+
+- **Daily highway driver worried about rock chips?** PPF on the front end is worth considering.
+- **Vehicle parked outdoors dealing with sun, dust, and hard water?** Ceramic coating is the higher-value choice — see our full [cost-benefit breakdown](/blog/is-ceramic-coating-worth-it-in-new-mexico).
+- **Want the deepest possible gloss and easiest maintenance washing?** Start with [paint correction](/service/paint-correction) and ceramic coating.
+
+## Our Recommendation
+
+For most Albuquerque metro drivers, ceramic coating alone covers the highest-value protection for the money — see how it stacks up against wax and sealant in [Ceramic Coating vs. Wax vs. Sealant](/blog/ceramic-coating-vs-wax-vs-sealant). [Contact us](/contact) if you want an honest recommendation for your specific vehicle and driving habits.`,
+  },
+  {
+    title: 'Do I Need to Be Home for a Mobile Detailing Appointment?',
+    slug: 'do-i-need-to-be-home-for-mobile-detailing',
+    excerpt:
+      'One of the most practical questions people have before booking mobile detailing for the first time — here is exactly what is and isn\'t required from you.',
+    date: '2026-08-31',
+    readTime: '4 min read',
+    author: AUTHOR,
+    content: `This is one of the most common logistics questions we get before someone books [mobile detailing](/service/mobile-auto-detailing) for the first time — and the short answer is no, you don't have to be home.
+
+## What We Actually Need
+
+- **Access to the vehicle** — keys or the vehicle already unlocked
+- **A parking spot** — a driveway, office lot, or similar space with room to work around the car
+- **A way to reach you** — a phone number in case we have questions or find something unexpected
+
+That's it. Our vans are fully self-contained with their own water and power, so we don't need access to your house, garage, or outdoor spigot.
+
+## Popular Ways Customers Handle This
+
+- **Leave keys in a lockbox or with a doorman/office reception**
+- **Book during the workday** and have us detail the car in your office parking lot while you're at your desk
+- **Run errands** during the 2-4 hour appointment window instead of waiting around
+- **Stay home anyway** if you'd rather be available — plenty of customers do this too, especially the first time
+
+## What Helps If You Won't Be There
+
+If you have specific concerns — a stain you want us to focus on, a rattle you've noticed, or valuables you want double-checked — just mention it when you book or leave a note in the car. See our full prep checklist in [How to Prepare Your Car for a Mobile Detailing Appointment](/blog/how-to-prepare-your-car-for-a-mobile-detailing-appointment).
+
+## After We're Done
+
+We'll text or call when the job is complete, and payment is collected after the work is finished — you don't need to be present for that either. This flexibility is a big part of why [mobile detailing beats driving to a shop](/blog/why-mobile-detailing-beats-driving-to-a-shop) for busy schedules.
+
+Ready to book? [Get a free quote](/contact) and let us know what works best for your schedule.`,
+  },
+  {
+    title: 'How to Maintain Your Car Between Professional Details',
+    slug: 'how-to-maintain-your-car-between-professional-details',
+    excerpt:
+      'A professional detail resets the baseline — what you do in the weeks after determines how long that baseline actually lasts.',
+    date: '2026-09-05',
+    readTime: '5 min read',
+    author: AUTHOR,
+    content: `A professional detail resets your car to its best possible condition — but what you do in the following weeks determines how long that condition actually holds up.
+
+## Exterior Maintenance
+
+- **Rinse before wiping.** Wiping dust off dry is one of the fastest ways to reintroduce swirl marks — see [Dust and Sand](/blog/dust-and-sand-how-albuquerques-climate-attacks-your-paint) for why this matters so much in Albuquerque specifically.
+- **Wash in shade, not direct sun.** Water that evaporates too fast leaves mineral spots — full explanation in [Hard Water Spots on Your Car](/blog/hard-water-spots-on-your-car-in-albuquerque).
+- **Reposition sprinklers** away from where your car parks if overspray is an issue.
+- **Consider ceramic coating** if you're tired of maintenance being this fragile — a coated surface is dramatically more forgiving between washes. See [Is Ceramic Coating Worth It in New Mexico?](/blog/is-ceramic-coating-worth-it-in-new-mexico)
+
+## Interior Maintenance
+
+- **Handle spills immediately** rather than letting them dry into carpet fibers
+- **Use a windshield sunshade** every time you park, not just in summer, to slow dashboard fading
+- **Vacuum weekly** if you have kids or pets, rather than waiting for the next full detail
+- **Avoid silicone-based dashboard sprays**, which attract dust and create windshield glare
+
+## Setting a Realistic Schedule
+
+Most Albuquerque metro vehicles hold up well with a full detail every 8-12 weeks and a quick maintenance wash every 2-3 weeks in between — see our full guide on [How Often Should You Detail Your Car in Albuquerque's Desert Climate?](/blog/how-often-should-you-detail-your-car-in-albuquerque) for the reasoning behind that interval.
+
+## When Maintenance Isn't Enough Anymore
+
+If you're doing everything right and the car still isn't holding up between visits, that's usually a sign the interval needs to shorten, or that a protective step like ceramic coating is worth adding rather than fighting the climate every single wash.
+
+Need a maintenance schedule built around your specific vehicle and driving habits? [Contact us](/contact) and we'll set one up.`,
   },
 ];
